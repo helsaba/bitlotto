@@ -20,7 +20,7 @@
 <td align="right"><span style="font-size: x-large;">
 May 2 Jackpot so far:
 <font color="#FF0000">
-157.17 BTC</font></span></td>
+165.59 BTC</font></span></td>
 </tr>
 </table>  
        
@@ -56,16 +56,16 @@ These all work:<br>
 Web Based: <br>
 <a href="http://www.blockchain.info/wallet">Blockchain.info</a> <br>
 <a href="http://strongcoin.com/">Strongcoin</a> <br>
-Will NOT work: Mt.Gox, Instawallet, or other <a href="https://en.bitcoin.it/wiki/EWallet">EWallets</a>. <br>
 <br>
 Smartphone:<br>
 BitcoinSpinner<br>
-Bitcoin Wallet by andreas schildbach<br>
-Will NOT work: BitPay <br>
-<br>
+Bitcoin Wallet by andreas schildbach<br><br>
+
+Will NOT work: BitPay, Mt.Gox, Instawallet, or other <a href="https://en.bitcoin.it/wiki/EWallet">EWallets</a>. 
+<br><br>
 Contact BitLotto if you notice any missing. If you are unsure, sent some BTC to
 a Blockchain.info wallet then buy the tickets from there. It's quick and easy. 
-
+<br><br>
 </div>
 
 <script language="JavaScript">
@@ -122,6 +122,7 @@ document.getElementById(divId).style.display = 'none';
       <a href="de.html">German</a><br>
       <a href="es.html">Spanish</a><br>
       <a href="fr.html">French</a><br>
+      <a href="ch.html">Chinese</a><br>
 
 	
 
