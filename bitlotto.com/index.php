@@ -20,7 +20,7 @@
 <td align="right"><span style="font-size: x-large;">
 May 2 Jackpot so far:
 <font color="#FF0000">
-165.59 BTC</font></span></td>
+199.25 BTC</font></span></td>
 </tr>
 </table>  
        
