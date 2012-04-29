@@ -7,7 +7,7 @@
   <meta http-equiv="Content-Type" content=
   "text/html; charset=us-ascii" />
 
-  <title>BitLotto - the Bitcoin lottery</title>
+  <title>BitLotto - the Bitcoin lottery / raffle</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 
 <script type="text/javascript">
@@ -33,26 +33,45 @@
 <tr>
 <td><img src="logo.gif" width="200" height="51" alt="BitLotto" /></td>
 <td align="right"><span style="font-size: x-large;">
-May 2 Jackpot so far:
-<font color="#FF0000">
-226.47 BTC</font></span></td>
+
+
+May 2 jackpot to date: <font color="#FF0000">348.52 BTC</font></span></td>
 </tr>
 </table>  
        
 
-      <h2>anonymous, transparent, and cheat-proof with a 99% payout!</h2><br>
+      <h2>Bitcoin raffle lottery: anonymous, transparent, and cheat-proof with 99% payout of funds!</h2><br>
       
       <hr>
-    </div><!-- end header -->
+
+<span style="font-size: larger;">
+<a href="index.php">Main</a>
+ 
+ | <a href="addresses.html">Winners</a>
+ | <a href="pool.html">Lottery Pool</a>
+ | <a href="details.html">Details</a>
+ | <a href="https://bitcointalk.org/index.php?topic=34007.0">Discussion</a>
+ | <a href="http://xqz3u5drneuzhaeo.onion/users/bitlotto/">TOR</a>
+ | <a href="affiliate.html">Affiliate</a>
+ | Languages: <a href="swe.html">sv</a>
+ | <a href="de.html">de</a>
+ | <a href="es.html">sp</a>
+ | <a href="fr.html">fr</a>
+ | <a href="ch.html">zh</a> 
+</span>
+
+<hr>	
+</div><!-- end header -->
 
     <div id="left">
       
 
-
+<br><br>
       <h3>Guide for playing BitLotto:</h3>
 
       <p>
-		<li>No registration - operates on top of the Bitcoin network - jackpot is sent to the Bitcoin address that sent the payment for the ticket.</li>      
+	<ul>      
+	<li>No registration - operates on top of the Bitcoin network - jackpot is sent to the Bitcoin address that sent the payment for the ticket.</li>      
       <li>Send any amount as long as it is a <strong>multiple of 0.25 BTC</strong> to the Bitcoin address listed for the draw. <a href="valid.html">(Double Check)</a> Each draw has a different address for sending payments. Each ticket is 0.25 BTC. </li>
 		<li>Only send BTC using BitLotto compatible software! If you use something else you will NOT
 		get the winnings! 
@@ -96,12 +115,11 @@ document.getElementById(divId).style.display = 'none';
 }
 }
 </script>
+</li>
 
 
 
-
-		</li>      
-			
+		
 		<li>The actual payment record within the Bitcoin network is used to create your "ticket(s)" using a set formula.</li>
       <li>BTC must be in a Bitcoin block before the draw. Draw starts when the first block's timestamp is after 00:00:00 UTC of draw date.</li>
       <li><a href="https://en.bitcoin.it/wiki/Securing_your_wallet">Backup your wallet</a> <strong>after</strong> entering the lottery in case something 
@@ -113,60 +131,35 @@ document.getElementById(divId).style.display = 'none';
       <li><strong>GOOD LUCK!</strong></li>
 		
       </ul>
-      </p>
       <br>
-      
-      <h3><a href="details.html">Full Details</a></h3>
-      <h3><a href="addresses.html">Past Winners</a></h3>
-      <h3><a href="https://bitcointalk.org/index.php?topic=34007.0">BitLotto Discussion Thread</a></h3>
-      <h3><a href="http://xqz3u5drneuzhaeo.onion/users/bitlotto/">BitLotto on TOR</a></h3>
-      <br><br>
-      <h3>Official Affiliates:</h3>
-      <p>
-      
-      <a href="affiliate.html">Become an official affiliate.</a><br>
+      <a href="http://www.satoshidice.com"><img src="http://i.imgur.com/q0az1.png" alt="Satoshi Dice" style="border:0px" /></a><br>
+      <br>
+      Try it out! Min bet is 0.0010 BTC. Just send the BTC to these addresses for an instant win! Use 
+BitLotto compatible software. <br><br>Address - Amount win - Odds of winning - Max bet <br>
+1dice8EMZmqKvrGE4Qc9bUFf9PX3xaYDp - Times 2  - 48.8281% - 42 <br>
+1dice6YgEVBf88erBFra9BHf6ZMoyvG88 - Times 8  - 12.2070% - 15 <br>
+1dice5wwEZT2u6ESAdUGG6MHgCpbQqZiy - Times 65 - 1.5259%  - 2.7<br>
 
 
-      </p>
-
-
-
-      <p>Translated directions: <br>
-      <a href="swe.html">Swedish</a><br>
-      Part Translations:<br>
-      <a href="de.html">German</a><br>
-      <a href="es.html">Spanish</a><br>
-      <a href="fr.html">French</a><br>
-      <a href="ch.html">Chinese</a><br>
-
-	
-
-		
-   
       <h3>BitLotto's Friends:</h3>
-      <a href="http://bitcashlotto.com/">Bitcashlotto</a><br>
-      <a href="https://bitjack21.com/">Bitjack21</a><br>
+      
 
       <a href="http://bitcoin-kamikaze.com/"><img src="http://i.imgur.com/Ow9kT.png" alt="Bitcoin-kamikaze" style="border:0px" /></a><br>
       
       <a href="http://btcbuy.info/"><img src="http://www.btcbuy.info/Images/btcbuy-banner-150x50.png" alt="BTC Buy" style="border:0px" /></a><br>
       <a href="http://BTC-Play.com"><img src="http://BTC-Play.com/images/banner/werbe2.png" alt="BTC-Play" width="150" style="border:0px" /></a><br>
-
+      <a href="http://bitcashlotto.com/">Bitcashlotto</a><br>
+      <a href="https://bitjack21.com/">Bitjack21</a><br>
             
-      </p>
+     
        
       
     </div><!-- end left division -->
 
-    <div id="main">
+<div id="main">
 <p>
 
-<b><span style="font-size: larger;">BitLotto is 1 year old! Thank you for playing our game!</span></b><br>
-<span style="font-size: larger;">To enter the May 2 draw send any multiple of 0.25 to: <b>1Cbz6PF7ks85M4zmeWzotX12WUE14JZ29</b> <a href="valid.html">-Verify-</a></span>
-<br>
-prior to May 2 using BitLotto Compatible Software. See the list on left. <b>THAT'S IT!!</b> 
-Everything is automatic and cheat proof! Make sure to backup and check your wallet later in case you win!
-
+<span style="font-size: larger;">To enter the May 2 draw send any multiple of 0.25 to: <b>1Cbz6PF7ks85M4zmeWzotX12WUE14JZ29</b> <a href="valid.html">-Verify-</a></span><br>prior to May 2 UTC using BitLotto Compatible Software. See the list on left. <b>THAT IS IT!!</b>Everything is automatic and cheat proof! Make sure to backup and check your wallet later in case you win!
 </p>
 
 <hr>
@@ -193,16 +186,6 @@ Ticket payment date: 2012-03-06 07:19:02<br>
 <strong><a href="https://blockexplorer.com/tx/837fdfbc1e82efec54ae6a48deaeabc2eab52e1bd1339c2f422bd66d53c2373a">Jackpot payment.</a></strong><br>
 </p>
 
-<h3>Congratulations to "<a href="https://blockexplorer.com/address/19P4ochF31h78qnK5yxAFn33hiTSgmMQ8L">19P4oc...</a>" for winning Feb 1 draw of 30.93 BTC!!!</h3>
-<p>
-Jackpot size: 30.93 BTC<br>
-Lucky Block: <a href="https://blockexplorer.com/block/00000000000005d3a8fac5a407948818c51a39d9730150adc3f2552021634fcf">164781</a> Mega Millions Numbers: 09 17 18 28 43 Mega Ball 09<br>
-Winning Picks: <a href="http://www.fileformat.info/tool/hash.htm?text=00000000000005d3a8fac5a407948818c51a39d9730150adc3f2552021634fcf091718284309">fb87ca7290</a><br>
-Winner's Hash: <a href="https://blockexplorer.com/tx/917b16c26bedf71936cdaecd96c53fbc91af18b729ffb875b67c51725495707a">917b16c26b...</a><br>
-Winner: 19P4ochF31h78qnK5yxAFn33hiTSgmMQ8L<br>
-Ticket payment date: 2012-01-26 08:33:19<br>
-<strong><a href="https://blockexplorer.com/tx/4aaaff7a89d610683f2a59c6afe0e7c597a1d7b885e9d49c77c1857e618bd284">Jackpot payment.</a></strong><br>
-</p>
 
 
 <hr>
@@ -222,7 +205,7 @@ pw_d.bch_wid="184";
 <img src="http://www.operationfabulous.com/ads/nojs.php?wid=184" usemap="#admap184" border="0" alt="Operation Fabulous Ads" />
 </noscript><!-- End of Operation Fabulous ad code. -->
 </div>
-</p>
+
 
 
 <hr>
