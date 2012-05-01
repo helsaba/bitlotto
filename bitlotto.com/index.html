@@ -35,7 +35,7 @@
 <td align="right"><span style="font-size: x-large;">
 
 
-May 2 jackpot to date: <font color="#FF0000">348.52 BTC</font></span></td>
+May 2 jackpot to date: <font color="#FF0000">385.16 BTC</font></span></td>
 </tr>
 </table>  
        
