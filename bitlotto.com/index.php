@@ -27,7 +27,7 @@
   <div id="Top">
     <h1><img src="logo.gif" alt="BitLotto" width="200" height="51" class="logo" />&nbsp;&nbsp; 
 
-Last month: 386 BTC. June 1 to date: 23.76 BTC
+Last month: 386 BTC. June 1 to date: 235.15 BTC
 </h1>
     
 
@@ -45,15 +45,16 @@ Last month: 386 BTC. June 1 to date: 23.76 BTC
   </div>
   <div id="TopImage"><img src="header.jpg" alt="PLAY BITLOTTO TODAY" width="800" height="118" class="logo" /></div>
   
-<div id="InfoLine">Congratulations to 1G5apmPvo2iTtmkNWAHTCET7Y842Ufijs8 for winning the May 2 draw of 386.84 BTC!!!</div>
+<div id="InfoLine">Congratulations to 1G5apmPvo... for winning the May 2 draw of 386.84 BTC!!!</div>
   
   <div id="MainText">
     <div id="MainText-right">
 	<h1>HOW TO PLAY BITLOTTO:</h1>
+		
 	<p>
-	Prior to June 1 00:00 UTC, send any <b>multiple of 0.25 to: 1BdTh4FtbkajrFjkv6jbLX8xQ11n1KfXDf</b> 
-	using 
-	<a onclick ="javascript:ShowHide('HiddenDiv')" href="javascript:;" >BitLotto Compatible Software</a>
+	Prior to June 1 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">1BdTh4FtbkajrFjkv6jbLX8xQ11n1KfXDf</span></b> 
+	<br>using 
+	<a onclick ="javascript:ShowHide('HiddenDiv')" href="javascript:;" >BitLotto Compatible Software</a>.
 	<div class="mid" id="HiddenDiv" style="DISPLAY: none" >
 	<hr>	
 	<b>If it is not listed here assume it is not compatible!</b>
@@ -95,7 +96,9 @@ Last month: 386 BTC. June 1 to date: 23.76 BTC
 	</script>
 	<b>THAT IS IT!!</b> 
 	Everything is automatic and cheat proof! Make sure to backup your wallet as payment will go back into
-	the wallet that paid for the ticket!
+	the wallet that paid for the ticket! Advanced tip: if you want to customize the Bitcoin address the winnings are sent
+	to, sent EXACTLY "0.00543210" in the SAME TRANSACTION, to the Bitcoin address you want the winnings sent to, using
+	the "Add recipient" feature. 
 	
 	<a onclick ="javascript:ShowHide('HiddenDiv2')" href="javascript:;" >More...</a>
 
@@ -137,21 +140,34 @@ Last month: 386 BTC. June 1 to date: 23.76 BTC
 	<h1>What is BitLotto?</h1>
       	<p>
 	BitLotto is a new way of playing a raffle style lottery with Bitcoins. Because of the unique way BitLotto operates on top 
-	of the Bitcoin Blockchain, BitLotto, nor it's players, can cheat. 
+	of the Bitcoin Blockchain, neither BitLotto, nor it's players, can cheat. 
+	Because it is a raffle style lottery, the odds of winning scale perfectly with the jackpot size compared to ticket price. 
+	No matter how small or big the jackpot, the price of each ticket, is a good deal. 99% of ticket sales go to the winner.  
 	</p>
 	<p>
 	
 	Imagine a lottery where the exact number of tickets 
-	are known, as well as the what the ticket numbers are, without knowing who actually owns the ticket. Imagine you can also look
-	at every ticket and verify that the correct ticket won and verify the correct winnings were transferred to 
-	the correct owner without knowing who it was. Imagine a system where you can't forge fake tickets. That is all 
+	are known, as well as what the ticket numbers are, without knowing who actually owns the ticket. Imagine you can also look
+	at every ticket, verify that the correct ticket won, and verify the correct winnings were transferred to 
+	the correct owner, all while preserving anonymity. Imagine a system where you can't forge tickets. That is all 
 	possible with BitLotto. Unlike other lotto services, BitLotto is anonymous, 
-	completely transparent, and impossible to fake the winning numbers and winners. 
-	BitLotto is designed in such a way that someone will be the lone winner so the odds of each
-	ticket winning is one out of the total number of tickets sold. Because
+	completely transparent, and impossible to fake. The winning numbers and winners are all independently verifiable. 
+	BitLotto is designed in such a way that there is only one winner per drawing, so the odds of each
+	ticket winning, is one out of the total number of tickets sold. Because
 	of how the lottery is run on top of Bitcoin, all the entries and procedures can be monitored, eliminating fraud.
 	</p>
 	
+<h1>Instant wins with Satoshi Dice!</h1>
+<a href="http://www.satoshidice.com"><img src="satoshi.png" alt="Satoshi Dice" style="border:0px" /></a><br>
+<br>
+Try it out! Min bet is 0.0010 BTC. Just send the BTC to these addresses for an instant win! Use 
+BitLotto compatible software. 
+<br><br>
+Address - Amount win - Odds of winning - Max bet <br>
+1dice8EMZmqKvrGE4Qc9bUFf9PX3xaYDp - Times 2  - 48.8281% - 100 <br>
+1dice6YgEVBf88erBFra9BHf6ZMoyvG88 - Times 8  - 12.2070% - 53 <br>
+1dice5wwEZT2u6ESAdUGG6MHgCpbQqZiy - Times 65 - 1.5259%  - 9<br>	
+
 
 <h1>1G5apmPvo2... won the May 2 draw of 386.84 BTC!</h1>
 <p>
@@ -180,17 +196,19 @@ Winner: 1DW4mtFwkLAbfc4ZBvcXypeV6NhfDryrni<br>
 <a href="2012april4.txt">Ticket List</a>
 <a href="https://blockexplorer.com/tx/837fdfbc1e82efec54ae6a48deaeabc2eab52e1bd1339c2f422bd66d53c2373a">Jackpot payment.</a><br>
 </p>
+<hr>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4fbef65414a47047"></script>
+<!-- AddThis Button END -->
 
-<h1>Instant wins with Satoshi Dice!</h1>
-<a href="http://www.satoshidice.com"><img src="http://i.imgur.com/q0az1.png" alt="Satoshi Dice" style="border:0px" /></a><br>
-<br>
-Try it out! Min bet is 0.0010 BTC. Just send the BTC to these addresses for an instant win! Use 
-BitLotto compatible software. 
-<br><br>
-Address - Amount win - Odds of winning - Max bet <br>
-1dice8EMZmqKvrGE4Qc9bUFf9PX3xaYDp - Times 2  - 48.8281% - 42 <br>
-1dice6YgEVBf88erBFra9BHf6ZMoyvG88 - Times 8  - 12.2070% - 15 <br>
-1dice5wwEZT2u6ESAdUGG6MHgCpbQqZiy - Times 65 - 1.5259%  - 2.7<br>	
+
+
     </div>
     <div id="MainText-left">
 
@@ -205,9 +223,12 @@ Address - Amount win - Odds of winning - Max bet <br>
 
 
 <br><br>
+
+
+
 <h1>.............</h1>
 <h1>FRIENDS</h1>    
-	<a href="http://bitcoin-kamikaze.com/"><img src="http://i.imgur.com/Ow9kT.png" alt="Bitcoin-kamikaze" style="border:0px" /></a><br>
+	<a href="http://www.satoshidice.com"><img src="satoshi.png" alt="Satoshi Dice" style="border:0px" /></a><br>	
       	<a href="http://btcbuy.info/"><img src="http://www.btcbuy.info/Images/btcbuy-banner-150x50.png" alt="BTC Buy" style="border:0px" /></a><br>
       	<a href="http://BTC-Play.com"><img src="http://BTC-Play.com/images/banner/werbe2.png" alt="BTC-Play" width="150" style="border:0px" /></a><br>
       	<a href="http://bitcashlotto.com/">Bitcashlotto</a><br>

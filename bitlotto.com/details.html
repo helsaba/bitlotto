@@ -58,12 +58,12 @@ play the Bitcoin lottery today!
 <p>To play BitLotto you must be paying with a method where you are the owner of the private key used for sending
 the BTC. Unless you are using a shared (online) wallet this is usually the case. The list of compatible software
 for playing BitLotto is listed on BitLotto's main page. BitLotto works by sending the winnings to same Bitcoin
-address that send the payment. If multiple people are sharing a wallet then the winnings will go to the wrong person. 
+address that sent the payment. If multiple people are sharing a wallet then the winnings will go to the wrong person. 
 <strong>BitLotto has decided to run the lottery in this fashion because it allows for more transparency of 
-the lottery as all plays are known by everyone and can't be manipulated by anyone.</strong> Not even 
-BitLotto can fake who wins or fake payments. Using the Bitcoin blockchain it can be proven
+the lottery as all purchases are known by everyone and can't be manipulated by anyone.</strong> Not even 
+BitLotto can fake who wins or fake a payment. Using the Bitcoin blockchain it can be proven
 that the correct winner got the winnings sent to them! If you use an online wallet, send some BTC to BitLotto
-compatible softare and then buy the tickets there. If you win, the BTC will be send there. 
+compatible software and then buy the tickets from there. If you win, the BTC will be send there. 
 <br><br>To play: send BTC to the Bitcoin address used for the desired draw.
 Each months draw will have a different Bitcoin address. Price per 
 play could change as the value of Bitcoins change. 
@@ -71,15 +71,17 @@ play could change as the value of Bitcoins change.
 the Bitcoin network as proof of purchase. This hash creates your tickets. Every one is unique and can't be changed because
 it's contained in the Bitcoin blockchain and permanently set. 
 Your first ticket will be the transaction hash of the payment to the BitLotto draw address. 
-Each multiple over the ticket price will use the original transaction hash with an added a number (starting at 1) at the 
+Each multiple over the ticket price have the original transaction hash with an added number (starting at 1) to the 
 end of the transaction hash and re-hashed to create the other tickets. 
 Example: The second ticket would be SHA256(originalhash1) and the third ticket would be SHA256(originalhash2).
-Entries have to be received in a Bitcoin block the day before the draw. (Deadline is before the first block after 00:00:00 UTC Date of Draw) Waiting
-till just before the time limit increases your chance the entry won't get received on time. 
+Entries have to be received in a Bitcoin block prior to 00:00:00 UTC of the date of the draw. (BitLotto will use 
+the first block with a timestamp after 00:00:00 UTC to set the time limit.)
+Waiting till just before the time limit increases your chance the entry won't get received on time. 
 Better to be safe than sorry and send it days before the draw. If you have waited till the last minute and still want to enter the draw, just
 configure your Bitcoin client to pay a small transaction fee. 
 That should make sure it gets in the Bitcoin network as soon as possible. Entries received after 
-Thursday will be returned minus 0.01 for services and to cover transaction fees. 
+Thursday will be returned minus any transactions fees. Small BTC change will be considered
+as a donation to help keep the BitLotto service running far into the future.   
 <br><br>The winner will be determined by using SHA256 hashes. This will ensure
 that no one, not even BitLotto, can manipulate who wins. 
 The mixer hash is a SHA256 hash of: luckyblockhash+lotterynumbers (no spaces or + sign)
@@ -90,7 +92,7 @@ A draw of: 07,19,39,41,55 (low to high) Mega Ball 21 would be entered as: 071939
 This method makes it impossible for anyone, even BitLotto, to manipulate who wins. And since the ticket hashes are publicly
 known, along with who sent it, it's impossible for BitLotto to fake a payment to a wrong person.  
 <br><br>
-To determine the winner each transaction hash will have the mixer hash added to the end. This
+To determine the winner each transaction or ticket hash will have the mixer hash added to the end. This
 string is now hashed again using SHA256. Hashes created from official
 BitLotto pools will also be added. The resulting hashes are sorted 0-9,a-f and what ever
 hash is sorted to the beginning wins. (Will likely start with multiple 0's)
@@ -156,12 +158,11 @@ In the event of a discrepancy between the details in another language and Englis
 <br><br>
 <h1>.............</h1>
 <h1>FRIENDS</h1>    
-	<a href="http://bitcoin-kamikaze.com/"><img src="http://i.imgur.com/Ow9kT.png" alt="Bitcoin-kamikaze" style="border:0px" /></a><br>
+	<a href="http://www.satoshidice.com"><img src="satoshi.png" alt="Satoshi Dice" style="border:0px" /></a><br>	
       	<a href="http://btcbuy.info/"><img src="http://www.btcbuy.info/Images/btcbuy-banner-150x50.png" alt="BTC Buy" style="border:0px" /></a><br>
       	<a href="http://BTC-Play.com"><img src="http://BTC-Play.com/images/banner/werbe2.png" alt="BTC-Play" width="150" style="border:0px" /></a><br>
       	<a href="http://bitcashlotto.com/">Bitcashlotto</a><br>
       	<a href="https://bitjack21.com/">Bitjack21</a><br>
-  
 </div>
   </div>
   <div id="Footer">
