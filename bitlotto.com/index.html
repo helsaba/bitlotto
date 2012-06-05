@@ -27,7 +27,7 @@
   <div id="Top">
     <h1><img src="logo.gif" alt="BitLotto" width="200" height="51" class="logo" />&nbsp;&nbsp; 
 
-Last month: 386 BTC. June 1 to date: 235.15 BTC
+Last month: 486 BTC. July 6 to date: 17.39 BTC
 </h1>
     
 
@@ -45,14 +45,15 @@ Last month: 386 BTC. June 1 to date: 235.15 BTC
   </div>
   <div id="TopImage"><img src="header.jpg" alt="PLAY BITLOTTO TODAY" width="800" height="118" class="logo" /></div>
   
-<div id="InfoLine">Congratulations to 1G5apmPvo... for winning the May 2 draw of 386.84 BTC!!!</div>
+<div id="InfoLine">BitLotto's Stranger Pool won June 1 draw of 486.33 BTC!</div>
   
   <div id="MainText">
     <div id="MainText-right">
 	<h1>HOW TO PLAY BITLOTTO:</h1>
-		
 	<p>
-	Prior to June 1 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">1BdTh4FtbkajrFjkv6jbLX8xQ11n1KfXDf</span></b> 
+Prior to July 6 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">1KciuzsCfP97FM9Vs9oTbEvqx7dEXPqUn2</span></b> <a href="https://blockexplorer.com/address/1KciuzsCfP97FM9Vs9oTbEvqx7dEXPqUn2"> (tickets)</a> 	
+	
+	
 	<br>using 
 	<a onclick ="javascript:ShowHide('HiddenDiv')" href="javascript:;" >BitLotto Compatible Software</a>.
 	<div class="mid" id="HiddenDiv" style="DISPLAY: none" >
@@ -108,7 +109,7 @@ Last month: 386 BTC. June 1 to date: 235.15 BTC
 	<li>No registration - operates on top of the Bitcoin network - jackpot is sent to the Bitcoin address that sent the payment for the ticket.</li>      
       	<li>Send any amount as long as it is a <strong>multiple of 0.25 BTC</strong> to the Bitcoin address listed for the draw. <a href="valid.html">(Double Check)</a> Each draw has a different address for sending payments. Each ticket is 0.25 BTC. </li>
 	<li>Only send BTC using BitLotto compatible software! If you use something else you will NOT get the winnings! </li>
-	<li>The actual payment record within the Bitcoin network is used to create your "ticket(s)" using a set formula.</li>
+	<li>The actual payment record within the Bitcoin network is used to create your "ticket(s)" from your "transaction ID" using a set formula.</li>
         <li>BTC must be in a Bitcoin block before the draw. Draw starts when the first block's timestamp is after 00:00:00 UTC of draw date.</li>
         <li><a href="https://en.bitcoin.it/wiki/Securing_your_wallet">Backup your wallet</a> <strong>after</strong> entering the lottery in case something 
 	happens to your computer! BitLotto has no way of knowing the identity of who plays/wins. The only
@@ -157,6 +158,21 @@ Last month: 386 BTC. June 1 to date: 235.15 BTC
 	of how the lottery is run on top of Bitcoin, all the entries and procedures can be monitored, eliminating fraud.
 	</p>
 	
+<h1>BitLotto's Stranger Pool won 486.33 BTC!</h1>
+<p>
+0.25 BTC/ticket<br>
+1. 1BdTh4FtbkajrFjkv6jbLX8xQ11n1KfXDf<br>
+2. 1P44CLoLcnUBgerSk2xoHeGh5SEZJ9Abfg (Pool)<br>
+3. 181GZPYNPKyaoWKeDgrHURU8QWQ4Wg7nP3 (Pool)<br>
+Jackpot size:  486.33 BTC <br>
+Lucky Block: 182429 Mega Millions Numbers: 02 27 38 46 52 Mega Ball 45 <br>
+Mixer Hash: <a href="http://www.fileformat.info/tool/hash.htm?text=00000000000004b4af7b4143e32d18cc55e373bd05051659fbdb8dc60702f04f022738465245">a3ccaa7c32...</a><br>
+Winner's Hash: 3b11a5be6db66fa610778ebabfcb489b615866b23933eca1176a75f839a650d2(13)<br>
+Winner: BitLotto's Stranger Pool (Second group of 10)<br>
+<a href="2012jun1.txt">Ticket List</a>
+<a href="http://blockchain.info/tx-index/7678811/021d7654b8cf3b868e53ee74252520750ae7c441ca889833b6f7cb30a05bff81">Jackpot payment.</a><br>
+</p>  
+
 <h1>Instant wins with Satoshi Dice!</h1>
 <a href="http://www.satoshidice.com"><img src="satoshi.png" alt="Satoshi Dice" style="border:0px" /></a><br>
 <br>

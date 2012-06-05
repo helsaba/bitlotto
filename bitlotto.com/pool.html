@@ -46,7 +46,7 @@ play the Bitcoin lottery today!
   </div>
   <div id="TopImage"><img src="header.jpg" alt="PLAY BITLOTTO TODAY" width="800" height="118" class="logo" /></div>
   
-<div id="InfoLine">Congratulations to 1G5apmPvo2iTtmkNWAHTCET7Y842Ufijs8 for winning the May 2 draw of 386.84 BTC!!!</div>
+<div id="InfoLine">BitLotto's Stranger Pool won June 1 draw of 486.33 BTC!</div>
   
   <div id="MainText">
     <div id="MainText-right">
@@ -66,24 +66,24 @@ BitLotto operates TWO main pools:<br><br>
 <hr>
 <h1>BitLotto's Pirate Pool</h1>
 <p>
-<b>Payment to: 1P44CLoLcnUBgerSk2xoHeGh5SEZJ9Abfg (June 1)</b><br>
+<b>Payment to: 13Pr5CLujsERfaRKm64FpebvUH9KFSbAbs (July 6)</b><br>
 <b>This pool accepts ANY size payment of 0.1 BTC or above!</b><br>
 This pool will pay out based on the percentage of the contributions! At the end of the 
 draw, BitLotto will contribute just enough to make it an even multiple of 0.25.<br>
 NOTE: There is no need to make multiple small payments. Just pay the total you want to contribute. 
 
 <br><br>
-<a href="https://blockexplorer.com/address/1P44CLoLcnUBgerSk2xoHeGh5SEZJ9Abfg">Current Funds</a>
+<a href="https://blockexplorer.com/address/13Pr5CLujsERfaRKm64FpebvUH9KFSbAbs">Current Funds</a>
 </p>
 
 <hr>
 
 <h1>BitLotto's Stranger Pool</h1>
 <p>
-<b>Send multiples of 0.25 to: 181GZPYNPKyaoWKeDgrHURU8QWQ4Wg7nP3 (June 1)</b><br>
+<b>Send multiples of 0.25 to: 17PympqQEXpPiqCeh7P5hmNFxqkS3gjG3Q (July 6)</b><br>
 Each 0.25 multiple will have 10% of the jackpot!!<br>
-<b>This pool only accepts multiples of 0.25 BTC.</b> Each group of 10 tickets sorted by date 
-(oldest is 1st) will share the winnings. If multiple tickets show
+<b>This pool only accepts multiples of 0.25 BTC.</b> Each group of 10 tickets sorted by block number will share the winnings. 
+(smallest block number is 1) If multiple tickets show
 up in one block they are sorted 0-9, a-f in that block to decide the sequence.
 Any remainder will form a smaller group. (Even a rare case of a lone stranger)<br>
 <b>Any payment smaller than 0.25 will be ignored and not part of the pool! Any extra change will also be ignored.</b>
@@ -92,15 +92,17 @@ NOTE: Making a large payment at one time means those tickets will likely be in t
 then waiting for others to pay, ensures you are included in multiple groups. A payment of 2.5 BTC could 
 potentially contain only one person. (They will just get the whole jackpot in this case.)
 <br><br>
-<a href="https://blockexplorer.com/address/181GZPYNPKyaoWKeDgrHURU8QWQ4Wg7nP3">Current Funds</a>
+<a href="https://blockexplorer.com/address/17PympqQEXpPiqCeh7P5hmNFxqkS3gjG3Q">Current Funds</a>
 
 
 </p>
 <hr>
 <h1>How the hashes are done for pools</h1>
 <p>
-Official pools run by BitLotto will ONLY use the first valid payment tx hash . If the first transactions
-appear all at once, in one block, it will be the hash in that block that is sorted 0-9, a-f first.
+Official pools run by BitLotto will ONLY use the first valid payment tx hash to the pool address. 
+If the first block in which a pool 
+transaction appears has more than one payment transaction, then the transaction being first will 
+be the first payment transaction hash in that block after sorting all the payment transactions: 0-9, a-f.
 The pools total funds are calculated and the hashes are generated just like what would happen if someone
 made a large payment in the main BitLotto draw address. 
 <p/>
