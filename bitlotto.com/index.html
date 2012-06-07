@@ -27,7 +27,7 @@
   <div id="Top">
     <h1><img src="logo.gif" alt="BitLotto" width="200" height="51" class="logo" />&nbsp;&nbsp; 
 
-Last month: 486 BTC. July 6 to date: 17.39 BTC
+Last month: 486 BTC. July 6 to date: 22.94 BTC
 </h1>
     
 
@@ -51,7 +51,7 @@ Last month: 486 BTC. July 6 to date: 17.39 BTC
     <div id="MainText-right">
 	<h1>HOW TO PLAY BITLOTTO:</h1>
 	<p>
-Prior to July 6 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">1KciuzsCfP97FM9Vs9oTbEvqx7dEXPqUn2</span></b> <a href="https://blockexplorer.com/address/1KciuzsCfP97FM9Vs9oTbEvqx7dEXPqUn2"> (tickets)</a> 	
+Prior to July 6 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">1KciuzsCfP97FM9Vs9oTbEvqx7dEXPqUn2</span></b> 	
 	
 	
 	<br>using 
@@ -99,7 +99,7 @@ Prior to July 6 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-si
 	Everything is automatic and cheat proof! Make sure to backup your wallet as payment will go back into
 	the wallet that paid for the ticket! Advanced tip: if you want to customize the Bitcoin address the winnings are sent
 	to, sent EXACTLY "0.00543210" in the SAME TRANSACTION, to the Bitcoin address you want the winnings sent to, using
-	the "Add recipient" feature. 
+	the "Add recipient" feature. (Funds for latest draw:<a href="http://blockchain.info/address/1KciuzsCfP97FM9Vs9oTbEvqx7dEXPqUn2">1</a>,<a href="http://blockchain.info/address/1LtMfB5M2zEuwUqLnWSPkLpUEUXxKQmtvH">2</a>,<a href="http://blockchain.info/address/13Pr5CLujsERfaRKm64FpebvUH9KFSbAbs">3</a>,<a href="http://blockchain.info/address/17PympqQEXpPiqCeh7P5hmNFxqkS3gjG3Q">4</a>) 
 	
 	<a onclick ="javascript:ShowHide('HiddenDiv2')" href="javascript:;" >More...</a>
 
