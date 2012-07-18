@@ -27,7 +27,7 @@
   <div id="Top">
     <h1><img src="logo.gif" alt="BitLotto" width="200" height="51" class="logo" />&nbsp;&nbsp; 
 
-Last month: 486 BTC. July 6 to date: 22.94 BTC
+August 3 to date: 42.77 BTC
 </h1>
     
 
@@ -45,13 +45,13 @@ Last month: 486 BTC. July 6 to date: 22.94 BTC
   </div>
   <div id="TopImage"><img src="header.jpg" alt="PLAY BITLOTTO TODAY" width="800" height="118" class="logo" /></div>
   
-<div id="InfoLine">BitLotto's Stranger Pool won June 1 draw of 486.33 BTC!</div>
+<div id="InfoLine">Congrats 1VqGSH... for winning 197.25 BTC!</div>
   
   <div id="MainText">
     <div id="MainText-right">
 	<h1>HOW TO PLAY BITLOTTO:</h1>
 	<p>
-Prior to July 6 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">1KciuzsCfP97FM9Vs9oTbEvqx7dEXPqUn2</span></b> 	
+Prior to August 3 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">1JreG7hy49u7iqUkwsYvxNCEu8NFe7LsVY</span></b> 	
 	
 	
 	<br>using 
@@ -99,7 +99,7 @@ Prior to July 6 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-si
 	Everything is automatic and cheat proof! Make sure to backup your wallet as payment will go back into
 	the wallet that paid for the ticket! Advanced tip: if you want to customize the Bitcoin address the winnings are sent
 	to, sent EXACTLY "0.00543210" in the SAME TRANSACTION, to the Bitcoin address you want the winnings sent to, using
-	the "Add recipient" feature. (Funds for latest draw:<a href="http://blockchain.info/address/1KciuzsCfP97FM9Vs9oTbEvqx7dEXPqUn2">1</a>,<a href="http://blockchain.info/address/1LtMfB5M2zEuwUqLnWSPkLpUEUXxKQmtvH">2</a>,<a href="http://blockchain.info/address/13Pr5CLujsERfaRKm64FpebvUH9KFSbAbs">3</a>,<a href="http://blockchain.info/address/17PympqQEXpPiqCeh7P5hmNFxqkS3gjG3Q">4</a>) 
+	the "Add recipient" feature. (Funds for latest draw:<a href="http://blockchain.info/address/1JreG7hy49u7iqUkwsYvxNCEu8NFe7LsVY">1</a>,<a href="http://blockchain.info/address/12pEbU916eNgbQXFgW3yMtBuvaFH2fQRaM">2</a>,<a href="http://blockchain.info/address/114Mes4GhbAe6Ph6YxzKh9bZ4WmqYFnvFj">3</a>,<a href="http://blockchain.info/address/1L21p1EwiRMHaVfGnFMdQFQmSneEa4JuBf">4</a>) 
 	
 	<a onclick ="javascript:ShowHide('HiddenDiv2')" href="javascript:;" >More...</a>
 
@@ -158,6 +158,36 @@ Prior to July 6 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-si
 	of how the lottery is run on top of Bitcoin, all the entries and procedures can be monitored, eliminating fraud.
 	</p>
 	
+<h1>Congrats 1VqGSH... for winning 197.25 BTC!</h1>
+<p>
+0.25 BTC/ticket<br>
+1. 1KciuzsCfP97FM9Vs9oTbEvqx7dEXPqUn2<br>
+2. 1LtMfB5M2zEuwUqLnWSPkLpUEUXxKQmtvH (German)<br>
+3. 13Pr5CLujsERfaRKm64FpebvUH9KFSbAbs (Pool)<br>
+4. 17PympqQEXpPiqCeh7P5hmNFxqkS3gjG3Q (Pool)<br>
+Jackpot size:  197.25 BTC <br>
+Lucky Block: 187712 Mega Millions Numbers: 20 23 28 35 39 Mega Ball 21 <br>
+Mixer Hash: <a href="http://www.fileformat.info/tool/hash.htm?text=000000000000024760c69c7b052ea94444c9f6073f18c072fc21a9dedd0ab44d202328353921">654b365212...</a><br>
+Winner's Hash: e15984fff0e016c99592b072412238bc46a39e625cb028d5bcc314bc94f6e9e9(1)<br>
+Winner: 1VqGSHEPvy2jHCrMavaZLZiHiA1UyxhXc<br>
+<a href="2012jul6.txt">Ticket List</a>
+<a href="http://blockchain.info/tx-index/11636583/5053fa219980c9980caa57b2fee4918a18e49f089080d73f5fd2c1cc3fdf7df8">Jackpot payment.</a><br>
+
+</p>   
+
+
+<h1>Instant wins with Satoshi Dice!</h1>
+<a href="http://www.satoshidice.com"><img src="satoshi.png" alt="Satoshi Dice" style="border:0px" /></a><br>
+<br>
+Try it out! Min bet is 0.0010 BTC. Just send the BTC to these addresses for an instant win! Use 
+BitLotto compatible software. 
+<br><br>
+Address - Amount win - Odds of winning - Max bet <br>
+1dice8EMZmqKvrGE4Qc9bUFf9PX3xaYDp - Times 2  - 48.8281% - 100 <br>
+1dice6YgEVBf88erBFra9BHf6ZMoyvG88 - Times 8  - 12.2070% - 53 <br>
+1dice5wwEZT2u6ESAdUGG6MHgCpbQqZiy - Times 65 - 1.5259%  - 9<br>	
+
+
 <h1>BitLotto's Stranger Pool won 486.33 BTC!</h1>
 <p>
 0.25 BTC/ticket<br>
@@ -172,17 +202,6 @@ Winner: BitLotto's Stranger Pool (Second group of 10)<br>
 <a href="2012jun1.txt">Ticket List</a>
 <a href="http://blockchain.info/tx-index/7678811/021d7654b8cf3b868e53ee74252520750ae7c441ca889833b6f7cb30a05bff81">Jackpot payment.</a><br>
 </p>  
-
-<h1>Instant wins with Satoshi Dice!</h1>
-<a href="http://www.satoshidice.com"><img src="satoshi.png" alt="Satoshi Dice" style="border:0px" /></a><br>
-<br>
-Try it out! Min bet is 0.0010 BTC. Just send the BTC to these addresses for an instant win! Use 
-BitLotto compatible software. 
-<br><br>
-Address - Amount win - Odds of winning - Max bet <br>
-1dice8EMZmqKvrGE4Qc9bUFf9PX3xaYDp - Times 2  - 48.8281% - 100 <br>
-1dice6YgEVBf88erBFra9BHf6ZMoyvG88 - Times 8  - 12.2070% - 53 <br>
-1dice5wwEZT2u6ESAdUGG6MHgCpbQqZiy - Times 65 - 1.5259%  - 9<br>	
 
 
 <h1>1G5apmPvo2... won the May 2 draw of 386.84 BTC!</h1>
