@@ -27,7 +27,7 @@
   <div id="Top">
     <h1><img src="logo.gif" alt="BitLotto" width="200" height="51" class="logo" />&nbsp;&nbsp; 
 
-Congrats 1G5apm... for winning 269.77 BTC!
+Draw over! Please stand by for results.
 </h1>
     
 
@@ -51,7 +51,7 @@ Congrats 1G5apm... for winning 269.77 BTC!
     <div id="MainText-right">
 	<h1>HOW TO PLAY BITLOTTO:</h1>
 	<p>
-Prior to September 7 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">1LuDZZ6k7MhfR9uhor6YUtfLE43dEnuvfB</span></b> 	
+Prior to October 5 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">1CZB3en1Q7LT2Tr8DLkSBiPFAz2kisueLd</span></b> 	
 	
 	
 	<br>using 
