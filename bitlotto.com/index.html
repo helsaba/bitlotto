@@ -27,7 +27,7 @@
   <div id="Top">
     <h1><img src="logo.gif" alt="BitLotto" width="200" height="51" class="logo" />&nbsp;&nbsp; 
 
-Congrats 1DARE...! Nov 2 to date: 2.48 BTC
+Congrats 1NRBAto...! Dec 7 to date: 2.62 BTC
 </h1>
     
 
@@ -51,7 +51,7 @@ Congrats 1DARE...! Nov 2 to date: 2.48 BTC
     <div id="MainText-right">
 	<h1>HOW TO PLAY BITLOTTO:</h1>
 	<p>
-Prior to November 2 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">164HRCChRufqrrf6wkgTsDE3Nsmn65E2VZ</span></b> 	
+Prior to December 7 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">19EygNbnF6w8Y3R6niLh5ptNdBLHCbVqFW</span></b> 	
 	
 	
 	<br>using 
@@ -158,6 +158,24 @@ Prior to November 2 00:00 UTC, send any <b>multiple of 0.25 to: <span style="fon
 	of how the lottery is run on top of Bitcoin, all the entries and procedures can be monitored, eliminating fraud.
 	</p>
 	
+
+<h1>Congrats 1NRBAto... for winning 49.25 BTC in November!</h1>
+<p>
+0.25 BTC/ticket<br>
+1. 164HRCChRufqrrf6wkgTsDE3Nsmn65E2VZ<br>
+2. 13LdWLrmmNYhC3iJaEqo9yjA2z61feiHMK (Pool)<br>
+3. 1B1FdH1NTfoKBvQ9U8a1VWFx3hNSVtESbw (Pool)<br>
+Jackpot size:  49.25 BTC <br>
+Lucky Block: 206056 Mega Millions Numbers: 04 18 22 38 44 Mega Ball 24 <br>
+Mixer Hash: <a href="http://www.fileformat.info/tool/hash.htm?text=0000000000000028345f8b0c6f1b483a98d27ebe861cdb72e3cb344167dd5789041822384424">54120d0d1b...</a><br>
+Winner's Hash: bb8e582ea94625d7f1ad05841b903c5faf1cc301c749616f4ce3568e9c5d1433(1)<br>
+Winner: 1NRBAto1TRyCBF7kWGMaCKnaxNYm36Wrnb<br>
+<a href="2012nov2.txt">Ticket List</a>
+</p>
+
+
+
+
 <h1>Congrats 1DARE... for winning 74.74 BTC in October!</h1>
 <p>
 0.25 BTC/ticket<br>
