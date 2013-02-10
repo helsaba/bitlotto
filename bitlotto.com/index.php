@@ -27,7 +27,7 @@
   <div id="Top">
     <h1><img src="logo.gif" alt="BitLotto" width="200" height="51" class="logo" />&nbsp;&nbsp; 
 
-Congrats 1Hanna...! Jan 4 to date: 6.39 BTC
+Next draw jackpot to date: 4.95 BTC
 </h1>
     
 
@@ -51,7 +51,7 @@ Congrats 1Hanna...! Jan 4 to date: 6.39 BTC
     <div id="MainText-right">
 	<h1>HOW TO PLAY BITLOTTO:</h1>
 	<p>
-Prior to January 4 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">15JanhBo4uZukafMFuFcEgU5WdL7J395G3</span></b> 	
+Prior to Mar 1 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font-size:larger;color:red;">12fxpYHWfoBNtZk2oMcbuBNvyJtVmL9KTF</span></b> 	
 	
 	
 	<br>using 
@@ -99,7 +99,7 @@ Prior to January 4 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font
 	Everything is automatic and cheat proof! Make sure to backup your wallet as payment will go back into
 	the wallet that paid for the ticket! Advanced tip: if you want to customize the Bitcoin address the winnings are sent
 	to, sent EXACTLY "0.00543210" in the SAME TRANSACTION, to the Bitcoin address you want the winnings sent to, using
-	the "Add recipient" feature. (Funds for latest draw:<a href="http://blockchain.info/address/15JanhBo4uZukafMFuFcEgU5WdL7J395G3">1</a>,<a href="http://blockchain.info/address/1pMZJi4eA144ChzXtsS8sCzrJADcXeAWR">2</a>,<a href="http://blockchain.info/address/1MiPg28L2RTeC77MM87KW5aAxXoQcJX4ee">3</a>) 
+	the "Add recipient" feature. (Funds for latest draw:<a href="http://blockchain.info/address/1MsKCa7sayu4GU63jpggLCimWXz6dY5hXz">1</a>,<a href="http://blockchain.info/address/17YhcYptSF2L48C361dTAMC98UpUGcZ4jP">2</a>,<a href="http://blockchain.info/address/16WKbqieTXERyrrF2j9LLhX8bM1TXpCYua">3</a>) 
 	
 	<a onclick ="javascript:ShowHide('HiddenDiv2')" href="javascript:;" >More...</a>
 
@@ -158,6 +158,40 @@ Prior to January 4 00:00 UTC, send any <b>multiple of 0.25 to: <span style="font
 	of how the lottery is run on top of Bitcoin, all the entries and procedures can be monitored, eliminating fraud.
 	</p>
 	
+
+<h1>Congrats Stanger Pool for winning 20.54 BTC!</h1>
+<p>
+0.25 BTC/ticket<br>
+1. 1MsKCa7sayu4GU63jpggLCimWXz6dY5hXz<br>
+2. 17YhcYptSF2L48C361dTAMC98UpUGcZ4jP (Pool)<br>
+3. 16WKbqieTXERyrrF2j9LLhX8bM1TXpCYua (Pool)<br>
+Jackpot size:  20.54 BTC <br>
+Lucky Block: 219007 Mega Millions Numbers: 01 30 32 40 41 Mega Ball 17 <br>
+Mixer Hash: <a href="http://www.fileformat.info/tool/hash.htm?text=0000000000000054ea07f09996ceda301f9fb94b268654779d53e9c7776b88b6013032404117">30582b6771...</a><br>
+Winner's Hash: df4e447b1a14b37a2ef700918fc1ea6bb4442ab6175e66f794cca1e5f27ca1d4(7)<br>
+Winner: BitLotto's Stranger Pool<br>
+<a href="2013feb1.txt">Ticket List</a>
+</p>   	
+
+
+
+
+<h1>Congrats Pirate Pool for winning 35.39 BTC!</h1>
+<p>
+0.25 BTC/ticket<br>
+1. 15JanhBo4uZukafMFuFcEgU5WdL7J395G3<br>
+2. 1pMZJi4eA144ChzXtsS8sCzrJADcXeAWR (Pool)<br>
+3. 1MiPg28L2RTeC77MM87KW5aAxXoQcJX4ee (Pool)<br>
+Jackpot size:  35.39 BTC <br>
+Lucky Block: 215040 Mega Millions Numbers: 01-02-23-25-55 Mega Ball 39 <br>
+Mixer Hash: <a href="http://www.fileformat.info/tool/hash.htm?text=000000000000025c5ecd38cff3c0663e3aeeba8a418058d4384ddb82793c67d0010223255539">adcea0b054...</a><br>
+Winner's Hash: e5e1bf90de5323ff9910981be6dc599a2517b185aea0494dce13c96742f675ef(16)<br>
+Winner: BitLotto's Pirate Pool<br>
+<a href="2013jan4.txt">Ticket List</a>
+</p>   
+
+
+
 
 <h1>Congrats 1Hanna... for winning 41.58 BTC in December!</h1>
 <p>
